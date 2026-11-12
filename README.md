@@ -2,7 +2,7 @@
 
 Scan paper into a clean PDF with your phone camera, in the browser.
 
-**[Open Scanline](https://mjay-2015.github.io/scanline/)** · works offline once installed
+**[Open Scanline](https://nataliedonga.github.io/scanline/)** · works offline once installed
 
 ![Scanline finds the corners of a photographed delivery note, then flattens and cleans it into a scanned page](docs/scanline.png)
 
